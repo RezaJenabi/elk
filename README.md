@@ -1,2 +1,1 @@
-# elk
-docker elk
+# ELK
